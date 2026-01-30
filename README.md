@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a fresher<br>I'm looking for a job<br>I'm currently learning data analyst<br>
+I'm currently a fresher<br>I'm looking for a job<br>I'm currently learning data science<br>
 
 
 ## 🌐 Socials:
